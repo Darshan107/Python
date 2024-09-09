@@ -1,1 +1,1 @@
-#strings1234567
+#strings
