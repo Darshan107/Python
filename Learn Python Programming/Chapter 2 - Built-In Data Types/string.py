@@ -1,1 +1,1 @@
-#strings1bcdefg
+#strings
