@@ -1,1 +1,1 @@
-#strings1bcSdef
+#strings
